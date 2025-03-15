@@ -105,7 +105,7 @@ header-includes:
 
 Установка
 
-![pass](image/01.png){ #fig:001 width=70% height=70% }
+![pass](image/01.png){ #fig:001 width=70% height=70% } 
 
 Это команды для установки инструментов управления паролями в Fedora.
 
